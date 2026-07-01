@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0156/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經安樂行義
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1926.xml
+    old_id: T46n1926
+hash: sha256:1306f4c8ecf636f278fc19aa4dbba44394cae6e284f201463ebd51fc41efde78
