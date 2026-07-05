@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0156_000.yaml, hash: 'sha256:1306f4c8ecf636f278fc19aa4dbba44394cae6e284f201463ebd51fc41efde78'}
-  - {seq: 1, filename: KR6d0156_001.yaml, hash: 'sha256:6b0f4737c1da84e868a35dc76bab73d7c8bc7aa2a87f94fbf27601f57b1910f5'}
+  - {seq: 1, filename: KR6d0156_001.yaml, hash: 'sha256:f785663e769980d4a2dc3070063867f663899ac6d7f469a458bc55384d654598'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0156_001.markers.yaml, hash: 'sha256:bfb26bbecbaf2cadbbb6cec7d9ebe85e90323fed352076ec724835f6ec83319d'}
+  - {seq: 0, role: markers, filename: assets/KR6d0156_000.markers.yaml, hash: 'sha256:9c70587ce0b9fc748493a6cb0c420fcd821887c8c1f947fdb78a73ab4f557e10'}
+  - {seq: 1, role: markers, filename: assets/KR6d0156_001.markers.yaml, hash: 'sha256:c8f1c5a19924a98c8ed87e947a63ab70fd5c9eb593a70f885f33b5a4033b88a9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 法華經安樂行義
   type: juan
   level: 1
-hash: sha256:6089d1b2d43ad1d67ec48897b82dbeeecbea3b37301d61bd54983d02615a93ed
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a1b8f604db776f74a963f6d70ae0518a5a1719d6518788f13da6988811740617
