@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0156/v1
 canonical_location: https://kanripo.org/bkk/KR6d0156/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 法華經安樂行義
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0156_000.yaml, hash: 'sha256:1306f4c8ecf636f278fc19aa4dbba44394cae6e284f201463ebd51fc41efde78'}
-  - {seq: 1, filename: KR6d0156_001.yaml, hash: 'sha256:f785663e769980d4a2dc3070063867f663899ac6d7f469a458bc55384d654598'}
+  - {seq: 1, filename: KR6d0156_001.yaml, hash: 'sha256:96ab2935e81c00a84cd89e7e7033344b4a22dd2183a7d60942f07ac463ead248'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0156_000.markers.yaml, hash: 'sha256:9c70587ce0b9fc748493a6cb0c420fcd821887c8c1f947fdb78a73ab4f557e10'}
-  - {seq: 1, role: markers, filename: assets/KR6d0156_001.markers.yaml, hash: 'sha256:c8f1c5a19924a98c8ed87e947a63ab70fd5c9eb593a70f885f33b5a4033b88a9'}
+  - {seq: 1, role: markers, filename: assets/KR6d0156_001.markers.yaml, hash: 'sha256:d0d97c2d4c6bc305e267c688837612a27b9c435fb37a3f46b06f2f89bbf9631e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 法華經安樂行義
   type: juan
   level: 1
-hash: sha256:a1b8f604db776f74a963f6d70ae0518a5a1719d6518788f13da6988811740617
+hash: sha256:c0d14adced6b019324734409cc1b7f8aecdef32fbb4065f52bb1a0cf2e3d904d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
